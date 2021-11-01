@@ -1,4 +1,4 @@
-# Medical Pager Chat App
+# Emergency Messaging App
 
 ![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
 
